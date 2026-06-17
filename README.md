@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Arpit Gupta 👋
 
-<!--
-**arpitgupta11/arpitgupta11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am a BCA graduate with a strong interest in data analytics and business intelligence. I enjoy transforming raw data into meaningful insights through analysis, visualization, and reporting. Currently building hands-on projects in SQL, Excel, Power BI, and Python to strengthen my analytical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* SQL
+* Excel
+* Power BI
+* Python
+* Data Cleaning
+* Data Visualization
+* Data Analysis
+* Dashboard Development
+
+## 🎓 Certifications
+
+* Google Data Analytics Professional Certificate
+* Microsoft Excel with AI Masterclass
+* SQL Course
+* Microsoft Power BI Course
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/arpit-gupta1105](http://www.linkedin.com/in/arpit-gupta1105)
+
+---
+
+*"Without data, you're just another person with an opinion." – W. Edwards Deming*
